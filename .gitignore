@@ -1,3 +1,5 @@
 venv_mlm/
 examples/
 *.zip
+.ipynb_checkpoints/Untitled-checkpoint.ipynb
+.ipynb_checkpoints/ufc-data-analysis-visualization-beginner-checkpoint.ipynb
